@@ -18,6 +18,14 @@ A list of languages, platforms, and other tools that I work with on a regular ba
 
 ## WORK HISTORY
 
+### Retail Investor/Trader
+
+January 2016 - Present  
+Self-employed  
+Anytown, USA
+
+- Retail investor and trader of stocks, futures, and options.
+
 ### Software Engineer II
 
 January 2019 - Present  
