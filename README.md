@@ -24,9 +24,10 @@ January 2019 - Present
 BentoBox  
 New York City, NY
 
-- Primary lead in transitioning the codebase from Python 2 to Python 3.
-- Built a highly scaleable CI infrastructure using GitHub Actions and Amazon EC2 instances.
-- Improve developer quality of life by building developer requested features, increasing automation, and reducing complexity.
+- Lead the transition to Python 3 and Django 3 for the main codebase.
+- Built a highly scaleable CI infrastructure with GitHub Actions and Amazon EC2 instances.
+- Improved developer quality of life by building developer requested features and tools.
+- Reduced overhead and human errors by increasing automation and reducing complexity.
 
 *Restaurant websites, online ordering, gift cards and more. All in one place.*
 
