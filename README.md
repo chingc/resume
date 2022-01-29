@@ -32,7 +32,7 @@ January 2019 - Present
 BentoBox  
 New York City, NY
 
-- Lead the transition to Python 3 and Django 3 for the main codebase.
+- Led the transition to Python 3 and Django 3 for the main codebase.
 - Built a highly scaleable CI infrastructure with GitHub Actions and Amazon EC2 instances.
 - Improved developer quality of life by building developer requested features and tools.
 - Reduced overhead and human errors by increasing automation and reducing complexity.
@@ -45,7 +45,8 @@ June 2016 - December 2017
 Jun Group  
 New York City, NY
 
-- Primary maintainer of the on-site CI infrastructure and in-house tools.
+- Maintained the on-site CI infrastructure.
+- Developed in-house tools for automation and developer productivity.
 - Collaborated with developers to deliver new features and bug fixes.
 - Improved coverage and reliability of unit and integration tests.
 
