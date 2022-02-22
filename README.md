@@ -24,7 +24,7 @@ January 2016 - Present
 Self-employed  
 Anytown, USA
 
-- Retail investor and trader of stocks, futures, and options.
+- Retail investor and trader.
 
 ### Software Engineer II
 
