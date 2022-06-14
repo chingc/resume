@@ -4,7 +4,7 @@
 
 ## PROFILE
 
-I am a tech enthusiast that used to assemble systems for myself and others.  Today, I spend most of my time on software.  I enjoy working in fast-paced environments where my contributions can make a meaningful impact to my fellow developers and to the business.  I think computers should be easy and try to express that through my code.
+I am a tech enthusiast that used to assemble systems for myself and others.  Today, I spend most of my time on software.  I enjoy working in fast-paced environments that allow for quick iteration, and where my contributions can make a meaningful impact to my fellow developers and to the business.  I think computers should be easy.  I think computers should work for humans.
 
 ## TECH STACK
 
@@ -18,14 +18,6 @@ A list of languages, platforms, and other tools that I work with on a regular ba
 
 ## WORK HISTORY
 
-### Retail Investor/Trader
-
-January 2016 - Present  
-Self-employed  
-Anytown, USA
-
-- Retail investor and trader.
-
 ### Software Engineer II
 
 January 2019 - Present  
@@ -37,7 +29,7 @@ New York City, NY
 - Improved developer quality of life by building developer requested features and tools.
 - Reduced overhead and human errors by increasing automation and reducing complexity.
 
-*Restaurant websites, online ordering, gift cards and more. All in one place.*
+*BentoBox helps restaurants build websites, online ordering, gift cards and more.  All in one place.*
 
 ### Software Developer
 
