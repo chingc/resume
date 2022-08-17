@@ -1,10 +1,10 @@
 # Ching Chow
 
-[![GitHub](https://img.shields.io/badge/github--lightgrey.svg)](https://github.com/chingc) [![LinkedIn](https://img.shields.io/badge/linkedin--blue.svg)](https://www.linkedin.com/in/chingc) [![email](https://img.shields.io/badge/email--brightgreen.svg)](mailto:ching.chow.sc@gmail.com?subject=Your%20GitHub%20Resume)
+[![GitHub](https://img.shields.io/badge/github--lightgrey.svg)](https://github.com/chingc) [![LinkedIn](https://img.shields.io/badge/linkedin--blue.svg)](https://www.linkedin.com/in/chingc) [![email](https://img.shields.io/badge/email--brightgreen.svg)](mailto:bright.water2722@fastmail.com?subject=Your%20GitHub%20Resume)
 
 ## PROFILE
 
-I am a tech enthusiast that used to assemble systems for myself and others.  Today, I spend most of my time on software.  I enjoy working in fast-paced environments that allow for quick iteration, and where my contributions can make a meaningful impact to my fellow developers and to the business.  I think computers should be easy.  I think computers should work for humans.
+I am a tech enthusiast that used to assemble systems for myself and others.  Today, I spend most of my time on software.  I enjoy working in fast-paced environments that allow for quick iteration, and where my contributions can make a meaningful impact to my fellow developers and to the business.  Computers should be easy.  Computers should work for humans.
 
 ## TECH STACK
 
