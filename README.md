@@ -2,29 +2,30 @@
 
 [![GitHub](https://img.shields.io/badge/github--lightgrey.svg)](https://github.com/chingc) [![LinkedIn](https://img.shields.io/badge/linkedin--blue.svg)](https://www.linkedin.com/in/chingc) [![email](https://img.shields.io/badge/email--brightgreen.svg)](mailto:bright.water2722@fastmail.com?subject=Your%20GitHub%20Resume)
 
+Greetings! This is my full resume.
+
 ## PROFILE
 
-I am a tech enthusiast that used to assemble systems for myself and others. Today, I spend most of my time on software. I enjoy working in fast-paced environments that allow for quick iteration, and where my contributions can make a meaningful impact to my fellow developers and to the business. My philosophy is computers should be easy.
+I am a tech enthusiast that used to build systems for myself and others. Today, I spend less time with hardware and more with software. I enjoy working in fast-paced environments that fosters rapid iteration, and I like to see my contributions make a meaningful impact for my fellow developers and to the business. My philosophy is computers should be easy.
 
 ## TECH
 
-A list of languages, platforms, and other tools that I work with on a regular basis and have confidence with using.
+A list of languages, platforms, and other tools that I work with on a regular basis and have confidence in using.
 
-- Python, JavaScript, shell
-- Docker, GitHub Actions
-- Amazon Web Services (EC2, ECR, IAM, Lambda, Secrets Manager, etc)
-- macOS, Linux, Windows
+- Programming Languages: Python, JavaScript, bash
+- Tools & Platforms: Amazon Web Services, Docker, GitHub Actions, git, PostgreSQL, pytest, pytest-cov, pytest-xdist, Redis, unittest
+- Operating Systems: macOS, Linux, Windows
 
 ## HISTORY
 
 ### Software Engineer II
 
-January 2019 - Present  
-BentoBox  
+January 2019 - June 2023<br/>
+BentoBox<br/>
 New York City, NY
 
-- Led the transition to Python 3 and Django 3 for the main codebase.
-- Built a highly scaleable CI infrastructure with GitHub Actions and Amazon EC2 instances.
+- Led the transition from Python 2 to 3 and Django 2 to 3 for the main codebase.
+- Built an auto-scaling CI infrastructure with GitHub Actions and Amazon EC2 instances.
 - Reduced CI test duration from nearly two hours to 20 minutes.
 - Reduced overhead and errors by increasing automation and eliminating complexity.
 - Improved developer quality of life by building developer requested features and tools.
@@ -33,8 +34,8 @@ _BentoBox helps restaurants build websites, online ordering, gift cards and more
 
 ### Software Developer
 
-June 2016 - December 2018  
-Jun Group  
+June 2016 - December 2018<br/>
+Jun Group<br/>
 New York City, NY
 
 - Maintained the on-site CI infrastructure.
@@ -46,8 +47,8 @@ _Jun Group is an advertising company that provides mobile and web platforms to g
 
 ### Quality Assurance Specialist
 
-May 2013 - June 2016  
-Jun Group  
+May 2013 - June 2016<br/>
+Jun Group<br/>
 New York City, NY
 
 - Built the on-site CI infrastructure and increased testing capacity more than 500%.
@@ -58,8 +59,8 @@ _Jun Group is an advertising company that provides mobile and web platforms to g
 
 ### Manager
 
-August 2003 - May 2013  
-Eight on the Break  
+August 2003 - May 2013<br/>
+Eight on the Break<br/>
 Dunellen, NJ
 
 - Short-order cook making cheesesteaks, burgers, and fried foods.
@@ -74,7 +75,7 @@ _Eight on the Break is the longest running arcade in the United States. Its vide
 
 ### Rutgers University
 
-Bachelor of Science, Computer Science, Class of 2010  
+Bachelor of Science, Computer Science, Class of 2010<br/>
 New Brunswick, NJ
 
 - Graduated cum laude with a 3.45 GPA.
@@ -96,7 +97,7 @@ New Brunswick, NJ
 
 ### Middlesex County College
 
-Associate of Science, Computer Science, Class of 2008  
+Associate of Science, Computer Science, Class of 2008<br/>
 Edison, NJ
 
 - Graduated summa cum laude with a 3.82 GPA.
