@@ -74,7 +74,7 @@ _Eight on the Break is the longest running arcade in the United States. Its vide
 
 ### Rutgers University
 
-Bachelor of Science, Computer Science  
+Bachelor of Science, Computer Science, Class of 2010  
 New Brunswick, NJ
 
 - Graduated cum laude with a 3.45 GPA.
@@ -96,7 +96,7 @@ New Brunswick, NJ
 
 ### Middlesex County College
 
-Associate of Science, Computer Science  
+Associate of Science, Computer Science, Class of 2008  
 Edison, NJ
 
 - Graduated summa cum laude with a 3.82 GPA.
