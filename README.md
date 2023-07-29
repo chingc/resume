@@ -19,7 +19,7 @@ A list of languages, platforms, and other tools that I work with on a regular ba
 
 ### Software Engineer II
 
-January 2019 - Present  
+January 2019 - June 2023  
 BentoBox  
 New York City, NY
 
