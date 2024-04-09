@@ -71,6 +71,18 @@ Dunellen, NJ
 
 _Eight on the Break is the longest running arcade in the United States. Its video games, pinball, billiards, and delicious cheesesteaks have been attracting casual and enthusiast audiences since its founding in 1973. Weekly and annual video game competitions has made it a household name in both the fighting game community and music game community._
 
+## REFERENCES
+
+Pierre Drescher<br/>
+CTO, Co-Founder<br/>
+BentoBox - Fiserv Restaurant Solutions
+
+Chris Cotty<br/>
+CEO<br/>
+Boardwalk Empire LLC
+
+_Contact details available upon request._
+
 ## EDUCATION
 
 ### Rutgers University
